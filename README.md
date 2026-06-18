@@ -39,14 +39,8 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ## 📂 Featured Projects
 
-### 📰 Fake News Detection System
-AI-powered fake news classification system.
-
 ### 📄 AI Resume Builder
 Create ATS-friendly resumes using AI.
-
-### 🎓 Smart College Predictor
-Predict colleges based on TNEA cutoff and preferences.
 
 ### 🤖 PDF Chatbot
 Ask questions from PDF documents using AI.
