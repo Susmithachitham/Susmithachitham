@@ -178,7 +178,7 @@ Built an intelligent chatbot capable of understanding PDF documents and answerin
 
 ## 🌐 Portfolio
 
-🔗 https://susmitha.vercel.app
+🔗 https://susmitha-c.vercel.app/
 
 ---
 
